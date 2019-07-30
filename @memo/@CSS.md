@@ -1,8 +1,8 @@
-#CSS入門
+# CSS入門
 
-##CCSで遊ぼう（[問題](https://css-tricks.com/the-shapes-of-css/)）
+## CCSで遊ぼう（[問題](https://css-tricks.com/the-shapes-of-css/)）
 
-###●テクスチャ
+### ●テクスチャ
 
 基本：
 
@@ -32,7 +32,7 @@
 
 
 
-###●色
+### ●色
 
 基本：rgb / HSL
 
@@ -40,7 +40,7 @@
 
 
 
-###●文字
+### ●文字
 
 斜体    ：font-style
 
