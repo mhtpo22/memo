@@ -1,8 +1,8 @@
-#Terminal入門(iTerm2+zsh)
+# Terminal入門(iTerm2+zsh)
 
 ## 基礎編1
 
-###[ 開く ]
+### [ 開く ]
 
 1. option + space：ターミナルを開く
 
@@ -11,14 +11,14 @@
 3. command + T：新規タブ開く
 4. control + L：再起動
 
-###[ 閉じる ]
+### [ 閉じる ]
 
 1. command + Q：画面を閉じる(非推奨)
 
 2. command + W：タブを閉じる
 3. control + d：終了(非推奨)
 
-###[ 画面操作 ]
+### [ 画面操作 ]
 
 1. command + shift + [←/→]：タブの移動
 2. command + []：画面の移動
@@ -27,7 +27,7 @@
 5. command + Enter：全画面
 6. control + L：再描画
 
-###[ カーソル ]
+### [ カーソル ]
 
 1. control + A：行頭
 
@@ -45,7 +45,7 @@
 
  ## 基礎編2
 
-###[ ファイルの操作 ]
+### [ ファイルの操作 ]
 
 1. mkdir(md) xxx
 2. touch xxx
@@ -58,12 +58,12 @@
 1. istats：実行
 2. stats scan：全てのセンサーをスキャン
 
-###[ パソコンが重くなった時 ]
+### [ パソコンが重くなった時 ]
 
 1. sudo rm -rf ~/Library/Caches：キャッシュの削除
 2. sudo purge：メモリ解放
 
-###[ Webサーバを停止させる ]
+### [ Webサーバを停止させる ]
 
 1. PIDを探す
    1. ps ax|grep [プロセス名]
@@ -73,7 +73,7 @@
 2. PIDを削除する
    1. <方法>kill -9 [PID]
 
-###[ 自動スリープ抑制 ]
+### [ 自動スリープ抑制 ]
 
 1. caffeinated -i
 
@@ -112,7 +112,7 @@
 
 3. brew doctor
 
-###[ rails ]
+### [ rails ]
 
 1. rails new xxx
 
@@ -137,7 +137,7 @@
 11. bundle update(bu)
 12. rails g xxx:install(devise/rspec)
 
-###[ git ]
+### [ git ]
 
 1. git init：初期化
 2. git add *：追加
@@ -149,7 +149,7 @@
 8. git diff --stat：変更具合
 9. git diff -w：改行や空白を無視する
 
-###[ heroku ]
+### [ heroku ]
 
 1. heroku open
 
