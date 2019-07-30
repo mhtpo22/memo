@@ -2,7 +2,7 @@
 
 ## Firefox編
 
-###[ Window ]
+### [ Window ]
 
 command + N：新規ウィンドウ
 
@@ -12,7 +12,7 @@ command + Q：ウィンドウを閉じる
 
 
 
-###[ Tab ]
+### [ Tab ]
 
 command + (shift) + T：新規タブ
 
@@ -22,7 +22,7 @@ command + W：タブを閉じる
 
 
 
-###[ Page ]
+### [ Page ]
 
 command + [←/→]：戻る・進む
 
@@ -30,7 +30,7 @@ command + (shift) + R：リロード
 
 
 
-###[ Screen ]
+### [ Screen ]
 
 command + shift + F：フルスクリーン
 
@@ -46,7 +46,7 @@ control; + [↓]：アクティブなアプリ
 
 
 
-###[ display ]
+### [ display ]
 
 command + option + I：開発ツール
 
@@ -58,7 +58,7 @@ command + L：リンク
 
 
 
-###[ Zoom ]
+### [ Zoom ]
 
 command + [+/-]：ズーム
 
@@ -94,7 +94,7 @@ control + J/K/L/;：かな・カナ・全角・半角
 
 
 
-###[ Others ]
+### [ Others ]
 
 command + O：Open
 
@@ -116,7 +116,7 @@ command + shift + [control] +3/4：スクリーンショット
 
 
 
-[ option ]
+### [ option ]
 
 control + shift + Eject：スリープ
 
