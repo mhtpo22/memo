@@ -58,6 +58,10 @@
 1. istats：実行
 2. stats scan：全てのセンサーをスキャン
 
+### [ 音楽を聴く(要インストール) ]
+
+1. mpsyt：実行
+
 ### [ パソコンが重くなった時 ]
 
 1. sudo rm -rf ~/Library/Caches：キャッシュの削除

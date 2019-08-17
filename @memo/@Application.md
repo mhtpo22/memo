@@ -15,3 +15,4 @@ command + option + space：開く
 control + shift + @：ターミナルを開く
 
 control + option + O：ブラウザ立ち上げ
+

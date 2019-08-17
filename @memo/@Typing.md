@@ -26,11 +26,13 @@
 
 #### 3. クラムシェルモードの準備（Mac）
 
-外付けキーボード：magic Keyboard(US)9800円
+外付けキーボード：Magic Keyboard (9800円)
 
-外付けトラックパッド：Magic Trackpad12800円
+外付けトラックパッド：Magic Trackpad2(白:12800円/黒:14800円)
 
-外付けディスプレイ：　　
+ワイヤレスイヤホン：Air Pods(17800円)/Powerbeats Pro(24000円)
+
+外付けディスプレイ：EIZO FORIS FS2434(33000円)
 
 モニターアーム
 
