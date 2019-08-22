@@ -14,11 +14,12 @@
 
 | アプリ名           | 概要                   |
 | ------------------ | ---------------------- |
+| AppCleaner         | アプリ消去             |
 | Alfred             | アプリランチャー       |
 | BetterTouchTool    | トラックパッド用       |
 | Clipy              | コピー                 |
 | GeekTool           | デスクトップ用         |
-| HyperSwitch        | Dock用                 |
+| HyperSwitch        | command+tab            |
 | iTerm              | ターミナル             |
 | Karabiner-Elements | キーボード用           |
 | Kiritori           | スクリーンキャプチャー |
@@ -26,6 +27,7 @@
 | Skitch             | 画像編集               |
 | Spectacle          | 画面サイズ             |
 | Station            | マルチアプリ           |
+| Vanilla            | メニューバー用         |
 
 - テキストエディタ/ノート
 
