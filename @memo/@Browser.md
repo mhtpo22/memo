@@ -1,12 +1,12 @@
 # ブラウザ入門
 
-## Firefox編
+## Chrome編
 
 ### [ Window ]
 
 command + N：新規ウィンドウ
 
-command + shift + P：新規プライベートウィンドウ
+command + shift + N：新規プライベートウィンドウ
 
 command + Q：ウィンドウを閉じる
 
@@ -14,7 +14,7 @@ command + Q：ウィンドウを閉じる
 
 ### [ Tab ]
 
-command + (shift) + T：新規タブ
+command + T：新規タブ
 
 command + shift + T：タブを開き直す
 
@@ -26,7 +26,7 @@ command + W：タブを閉じる
 
 command + [←/→]：戻る・進む
 
-command + (shift) + R：リロード
+command + R：リロード
 
 
 
@@ -38,12 +38,6 @@ command + M：最小化
 
 command + H：アプリを隠す
 
-command + tab：アプリケーションスイッチャー
-
-control; + [↑]：ウインドウ一覧
-
-control; + [↓]：アクティブなアプリ
-
 
 
 ### [ display ]
@@ -51,8 +45,6 @@ control; + [↓]：アクティブなアプリ
 command + option + I：開発ツール
 
 command + B：ブークマーク一覧
-
-command + K：web検索
 
 command + L：リンク
 
