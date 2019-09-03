@@ -2,46 +2,46 @@
 
 - ブラウザ
 
-| アプリ名 | 概要       |
-| -------- | ---------- |
-| Chrom    | メイン     |
-| Firefox  | サブ       |
-| Opera    | （未使用） |
-| Safari   | （未使用） |
-| Vivaldi  | （未使用） |
+| アプリ名 | 概要       | 評価           |
+| -------- | ---------- | -------------- |
+| Chrom    | メイン     | ★★★★★          |
+| Firefox  | サブ       | ★★★★☆          |
+| Opera    | （未使用） | 利用していない |
+| Safari   | （未使用） | 利用していない |
+| Vivaldi  | （未使用） | ★★★☆☆          |
 
 - 業務効率
 
-| アプリ名           | 概要                                  |
-| ------------------ | ------------------------------------- |
-| AppCleaner         | アプリ消去                            |
-| Alfred             | アプリランチャー（無料・有料2470円）  |
-| BetterTouchTool    | トラックパッド用（有料800円）         |
-| BlueStacks         | 仮想Android                           |
-| Cheetsheet         | チートシート表示 [ command3秒長押し ] |
-| CLCL Lite          | 簡易移動 [ command×3 ]                |
-| Clipy              | コピーボード                          |
-| DASH               | リファレンス（無料・有料1700円）      |
-| Day-0              | カレンダー                            |
-| Fluid              | アプリケーション作成                  |
-| GeekTool           | デスクトップ用                        |
-| Growl              | *通知（有料480円）                    |
-| Headphoned         | オーディオ機器の状態                  |
-| HyperSwitch        | アプリスイッチャー [ command+tab ]    |
-| iTerm              | ターミナル                            |
-| Karabiner-Elements | キーボード用                          |
-| KeepingYouAwake    | スリープ禁止                          |
-| Kiritori           | スクリーンキャプチャー                |
-| LICEcap            | GIFの作成                             |
-| Onyx               | メンテナンス                          |
-| Perculia           | アイコン                              |
-| Skim               | *PDFリーダー                          |
-| Skitch             | 画像編集                              |
-| Snap               | コマンド                              |
-| Spectacle          | 画面サイズ                            |
-| Station            | マルチアプリ                          |
-| Vanilla            | メニューバー用（無料・有料549円）     |
-| Vlc                | *メディアプレーヤー                   |
+| アプリ名           | 概要                                  | 評価           |
+| ------------------ | ------------------------------------- | -------------- |
+| AppCleaner         | アプリ消去                            | ★★★★☆          |
+| Alfred             | アプリランチャー（無料・有料2470円）  | ★★★★★          |
+| BetterTouchTool    | トラックパッド用（有料800円）         | 利用していない |
+| BlueStacks         | 仮想Android                           | ★★☆☆☆          |
+| Cheetsheet         | チートシート表示 [ command3秒長押し ] | ★★☆☆☆          |
+| CLCL Lite          | 簡易移動 [ command×3 ]                | ★★★☆☆          |
+| Clipy              | コピーボード                          | ★★☆☆☆          |
+| DASH               | リファレンス（無料・有料1700円）      | ★★☆☆☆          |
+| Day-0              | カレンダー                            | ★★★☆☆          |
+| Fluid              | アプリケーション作成                  | ★★☆☆☆          |
+| GeekTool           | デスクトップ用                        | ★★☆☆☆          |
+| Growl              | *通知（有料480円）                    | 利用していない |
+| Headphoned         | オーディオ機器の状態                  | ★★☆☆☆          |
+| HyperSwitch        | アプリスイッチャー [ command+tab ]    | ★★★★☆          |
+| iTerm              | ターミナル                            | ★★★★★          |
+| Karabiner-Elements | キーボード用                          | ★★★★★          |
+| KeepingYouAwake    | スリープ禁止                          | ★★☆☆☆          |
+| Kiritori           | スクリーンキャプチャー                | ★★☆☆☆          |
+| LICEcap            | GIFの作成                             | ★★☆☆☆          |
+| Onyx               | メンテナンス                          | ★★☆☆☆          |
+| Perculia           | アイコン                              | ★★☆☆☆          |
+| Skim               | *PDFリーダー                          | 利用していない |
+| Skitch             | 画像編集                              | ★★☆☆☆          |
+| Snap               | コマンド                              | ★★☆☆☆          |
+| Spectacle          | 画面サイズ                            | ★★★★☆          |
+| Station            | マルチアプリ                          | ★★★★☆          |
+| Vanilla            | メニューバー用（無料・有料549円）     | ★★★☆☆          |
+| Vlc                | *メディアプレーヤー                   | 利用していない |
 
 - テキストエディタ/ノート
 
@@ -102,7 +102,20 @@
 
 
 
+# 拡張機能
+
+| 拡張機能         | 概要                     | 評価  |
+| ---------------- | ------------------------ | ----- |
+| Adblock Plus     | 広告ブロック             | ★★★★★ |
+| Privacy Badger   | スクリプトや広告を検出   | ★★☆☆☆ |
+| Vimium           | キーボードでブラウザ操作 | ★★★★★ |
+| One Tab          | タブ整理                 | ★☆☆☆☆ |
+| New Tab Redirect | 新規タブ                 | ★☆☆☆☆ |
+| Dark Reader      | ダークテーマ             | ★★☆☆☆ |
+| Stylish          | カスタムテーマ           | ★☆☆☆☆ |
+| Tab Resize       | タブのリサイズ           | ★☆☆☆☆ |
+| Tab Outliner     | タブ詳細                 | ☆☆☆☆☆ |
 
 
 
-
+　
