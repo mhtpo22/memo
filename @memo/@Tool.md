@@ -33,6 +33,7 @@
 | KeepingYouAwake    | スリープ禁止                          | ★★☆☆☆          |
 | Kiritori           | スクリーンキャプチャー                | ★★☆☆☆          |
 | LICEcap            | GIFの作成                             | ★★☆☆☆          |
+| Monoligual         | 不要な言語の削除                      | ★★☆☆☆          |
 | Onyx               | メンテナンス                          | ★★☆☆☆          |
 | Perculia           | アイコン                              | ★★☆☆☆          |
 | Skim               | *PDFリーダー                          | 利用していない |
@@ -104,17 +105,22 @@
 
 # 拡張機能
 
-| 拡張機能         | 概要                     | 評価  |
-| ---------------- | ------------------------ | ----- |
-| Adblock Plus     | 広告ブロック             | ★★★★★ |
-| Privacy Badger   | スクリプトや広告を検出   | ★★☆☆☆ |
-| Vimium           | キーボードでブラウザ操作 | ★★★★★ |
-| One Tab          | タブ整理                 | ★☆☆☆☆ |
-| New Tab Redirect | 新規タブ                 | ★☆☆☆☆ |
-| Dark Reader      | ダークテーマ             | ★★☆☆☆ |
-| Stylish          | カスタムテーマ           | ★☆☆☆☆ |
-| Tab Resize       | タブのリサイズ           | ★☆☆☆☆ |
-| Tab Outliner     | タブ詳細                 | ☆☆☆☆☆ |
+| 拡張機能               | 概要                     | 評価  |
+| ---------------------- | ------------------------ | ----- |
+| Adblock Plus           | 広告ブロック             | ★★★★★ |
+| Clear Cache            | キャッシュ消去           | ★★☆☆☆ |
+| Dark Reader            | ダークテーマ             | ★★☆☆☆ |
+| Falcon                 | 履歴検索                 | ★☆☆☆☆ |
+| Google Mail Checker    | Gmail                    | ★☆☆☆☆ |
+| Google 翻訳            | 翻訳                     | ★☆☆☆☆ |
+| New Tab Redirect       | 新規タブ                 | ★☆☆☆☆ |
+| One Tab                | タブ整理                 | ★☆☆☆☆ |
+| Save to Pocket         | Pocket                   | ★★☆☆☆ |
+| Simple URL Copy        | URLのコピー              | ★☆☆☆☆ |
+| Stylish                | カスタムテーマ           | ★★☆☆☆ |
+| Tab Resize             | タブのリサイズ           | ★★☆☆☆ |
+| Vimium                 | キーボードでブラウザ操作 | ★★★★★ |
+| ブックマークサイドバー | ブックマーク             | ★★★☆☆ |
 
 
 

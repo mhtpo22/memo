@@ -120,6 +120,28 @@ command + F1：ミラーリング
 
 
 
+Gmail
+
+スレッドの移動：J/K
+
+ページの移動:G + N/P
+
+セクションの移動：`/~
+
+受信ボックスへ移動：gi
+
+送信ボックスへ移動：gt
+
+戻る：u
+
+開く：O
+
+
+
+[Gmailヘルプ](https://support.google.com/mail/answer/6594?hl=ja&co=GENIE.Platform=Desktop)
+
+
+
 ## オプション（拡張機能：Vimium）
 
 #### [ 移動 ]
